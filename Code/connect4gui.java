@@ -1,5 +1,4 @@
 /*     Name : Siddu Palaparthi
-jar -cvfm connect4gui.jar manifest.txt *
  Student ID : 723078 
  Description: A Basic Connect 4 GUI, except rather than the conventional connect 4, it is a face-down edition,
  meaning that you can place the pieces anywhere in a tic-tac-toe like manner. This offers a plethora
@@ -202,8 +201,8 @@ public class connect4gui extends JFrame implements ActionListener {
     
     //WRITING INNSTRUCTIONS
     instructions = new JLabel("<html>Player 1 will be yellow. Player 2 will be red. You each take turns placing your disc on the board by clicking on the blank circle where you wish to place it.</html>");
-    instructions2 = new JLabel("<html>The goal is to put four of these pieces on the board in a row, hence the name ìConnect-4î. You can make a Connect-4 horizontally, vertically, or even diagonally in any direction. If the board fills up before you make a connect-4, there is a reset button that will allow you to continue the game!</html>");
-    instructions3 = new JLabel("<html>The unique part of this game is that it isnít like traditional connect-4 because the pieces wonít drop down! This will add to the challenge of the game, and open up a whole realm of possiblilites!</html>");
+    instructions2 = new JLabel("<html>The goal is to put four of these pieces on the board in a row, hence the name ‚ÄúConnect-4‚Äù. You can make a Connect-4 horizontally, vertically, or even diagonally in any direction. If the board fills up before you make a connect-4, there is a reset button that will allow you to continue the game!</html>");
+    instructions3 = new JLabel("<html>The unique part of this game is that it isn‚Äôt like traditional connect-4 because the pieces won‚Äôt drop down! This will add to the challenge of the game, and open up a whole realm of possiblilites!</html>");
     instructions4 = new JLabel("[POINTS SYSTEM COMING SOON IN 1.01 UPDATE :) ]               ENJOY!");
     
     //Setting the font of the 4 J-Labels above
@@ -581,7 +580,7 @@ public class connect4gui extends JFrame implements ActionListener {
     }
     
     /////
-    //WIN-CHECK LOGIC (Got some help from Rishabh for syntax, but the actual concept was co-developped)
+    //WIN-CHECK LOGIC
     /////
     
     //Vertical Check
