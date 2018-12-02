@@ -1,5 +1,6 @@
 /*     Name : Siddu Palaparthi
  Student ID : 723078 
+        Year: 2018
  Description: A Basic Connect 4 GUI, except rather than the conventional connect 4, it is a face-down edition,
  meaning that you can place the pieces anywhere in a tic-tac-toe like manner. This offers a plethora
  of new/different strategies. This GUI is complete with a homescreen, instructions, the game (obviously), and 
