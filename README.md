@@ -12,3 +12,7 @@ If anyone knows how I can compress everything into a .jar file, please contact m
 presenting the source code and individual files to them!
 
 Enjoy!
+
+![alt text](https://drive.google.com/file/d/1RVgNhlcHfFeIsbHIFY3TvIKSpRsjEfP0/view?usp=sharing)
+
+![alt text](https://drive.google.com/file/d/1xJ4cprqgcpK6x4kgklLHzuebaKGGYqqM/view?usp=sharing)
