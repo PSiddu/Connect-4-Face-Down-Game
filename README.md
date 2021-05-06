@@ -1,9 +1,10 @@
 # Connect-4-Face-Down-Game
 A version of the classic Connect 4 game where the board is "face down", so the pieces don't drop down.
 
-I created this game for my final project in my 10th Grade Computer Science Class. I was originally using Java Applets,
-but because Applet is starting to get outdated, I switched to Swing. Since the program was marked, it has very descriptive
-comments, and is quite easy to follow. I ended up doing well on the project, getting full marks.
+I created this game for my final project in my 10th Grade Computer Science Class, where we had to put a twist on any classic
+board game. I was originally using Java Applets, but because Applet is starting to get outdated, I switched to Swing. 
+Since the program was marked, it has very descriptive comments, and is quite easy to follow. I ended up doing well on the project, 
+getting full marks.
 
 Note: This game relies on sound & image files that must be in the same folder as the .java file of the game.
       It will not work if these files aren't in the same folder (directory) as the .java file.
